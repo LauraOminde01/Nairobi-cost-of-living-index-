@@ -1,10 +1,10 @@
 # Nairobi Cost of Living Index
 
-A data dashboard tracking the real cost of living in Nairobi using World Bank, EPRA, and KNBS data -combining food prices, fuel costs, rent, transport, and electricity into a single monthly index with a 6-month forecast.
+A data dashboard tracking the real cost of living in Nairobi using World Bank, EPRA, and KNBS data - combining food prices, fuel costs, rent, transport, and electricity into a single monthly index with a 6-month forecast.
 
 ## The Problem
 
-Kenya's Consumer Price Index has risen 167.8% since 2010. A Nairobi household that spent KES 18,207 per month in January 2020 now needs KES 29,223 to maintain the same standard of living — a 60.5% increase in just four years. Yet most Kenyans have no single tool that shows them what is driving that increase, which category is rising fastest, and what to expect in the coming months.
+Kenya's Consumer Price Index has risen 167.8% since 2010. A Nairobi household that spent KES 18,207 per month in January 2020 now needs KES 29,223 to maintain the same standard of living - a 60.5% increase in just four years. Yet most Kenyans have no single tool that shows them what is driving that increase, which category is rising fastest, and what to expect in the coming months.
 
 ## Live Demo
 
