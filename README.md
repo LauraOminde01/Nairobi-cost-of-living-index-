@@ -8,7 +8,7 @@ Kenya's Consumer Price Index has risen 167.8% since 2010. A Nairobi household th
 
 ## Live Demo
 
-[Add deployed URL once available]
+https://cost-index.streamlit.app/
 
 ## What It Shows
 
